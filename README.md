@@ -1,6 +1,6 @@
 ## Welcome to the AWS Distro for OpenTelemetry Community!
 
-If you’re an open source observability user or contributor, we invite you to get involved. You can contribute in the following ways:
+If you’re an open source observability user or contributor, we invite you to get indsfgvolved. You can contribute in the following ways:
 
 * Ask a question by filing an [issue](https://github.com/aws-observability/aws-otel-community/issues).
 * File a bug by filing a [pull request (PR)](https://github.com/aws-observability/aws-otel-community/pulls).
